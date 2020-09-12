@@ -22,5 +22,5 @@ def update_counting_hash(hash, key)
     hash[key]=1 
   end
      # binding.pry
-  hash[key]
+  hash
 end
